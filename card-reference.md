@@ -123,7 +123,7 @@
 ● Add 1 "Mystical Space Typhoon" from your Deck or GY to your hand.
 ### Annotations (Agnes)
 - Role: Engine Requirement, Conditional Starter
-- Condition: Requires Radiant Typhoon Ascendance or another card that can summon back the sent Radiant Typhoon monster, in order to function as a starter.
+- Condition: Requires another card or effect that can summon back the sent Radiant Typhoon monster (that also has not used its once-per-turn effect), in order to function as a starter.
 
 
 
