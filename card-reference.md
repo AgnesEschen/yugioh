@@ -162,7 +162,7 @@ Once per Chain, when "Mystical Space Typhoon" is activated: You can target 1 fac
 - Typing: Quick-Play
 - Text: Target 1 Spell/Trap on the field; destroy that target.
 ### Annotations (Agnes)
-- Role: Requirement
+- Role: Engine, Requirement
 - Requirement: Radiant Typhoon decks must include three copies of this card to fulfill their game plan.
 - Background notes: Is often referred to in its abbreviated form as MST.
 
@@ -175,7 +175,7 @@ Once per Chain, when "Mystical Space Typhoon" is activated: You can target 1 fac
 - Level/Rank: 4
 - Text: If this card is Normal or Special Summoned: You can banish 1 LIGHT monster from your GY; draw 1 card. You can banish this card from your hand or field; add 1 Level 6 or lower WIND Beast monster from your Deck to your hand. You can only use 1 "Noble Knight's Shield-Bearer" effect per turn, and only once that turn.
 ### Annotations (Agnes)
-- Role: Starter
+- Role: Engine, Starter
 - Key notes: Is almost always used to search Radiant Typhoon Eldam such that it functions as a starter for Radiant Typhoon decks. This however, is particularly weak into Droll & Lock Bird.
 
 
@@ -185,7 +185,7 @@ Once per Chain, when "Mystical Space Typhoon" is activated: You can target 1 fac
 - Typing: Continuous
 - Text: When this card is activated: You can add 1 Level 4 or lower Beast-Warrior monster from your Deck to your hand. All Beast-Warrior monsters you control gain 100 ATK. You can only activate 1 "Fire Formation - Tenki" per turn.
 ### Annotations (Agnes)
-- Role: Starter
+- Role: Engine, Starter
 - Key notes: Is almost always used to search Radiant Typhoon Swen such that it functions as a starter for Radiant Typhoon decks. This however, is particularly weak into Droll & Lock Bird.
 
 
@@ -221,10 +221,12 @@ You can only use this effect of "Shiina, Twin Tempests of Celestial Thunder" onc
 ## Pot of Extravagance
 ### Card data
 - Type: Spell
+- Typing: Normal
 - Text: At the start of your Main Phase 1: Banish 3 or 6 random face-down cards from your Extra Deck, face-down; draw 1 card for every 3 cards banished. For the rest of this turn after this card resolves, you cannot draw any cards by card effects.
 ### Annotations (Agnes)
 - Role: Consistency, Card Advantage
-- Key notes: This card is almost always activated by banishing 6 random face-down cards from the extra deck in order to draw 2 cards. While a plus 2 is a very good upside, the major downside of this card is its cost to activate severely impacting how the extra deck should be built. Another downside is the restriction of not being able to draw any cards by card effects after its effect resolves. A final downside to note is that it must be activated as the first action when entering main phase one. This can make the card inflexible into an established board, or hand interaction such as Droll & Lock Bird.
+- Key notes: This card is almost always activated by banishing 6 random face-down cards from the extra deck in order to draw 2 cards. 
+- Background notes: While a plus 2 is a very good upside, the major downside of this card is its cost to activate severely impacting how the extra deck should be built. Another downside is the restriction of not being able to draw any cards by card effects after its effect resolves. A final downside to note is that it must be activated as the first action when entering main phase one. This can make the card inflexible into an established board, or hand interaction such as Droll & Lock Bird.
 
 
 ## The Fallen & The Virtuous
@@ -240,8 +242,8 @@ You can only activate 1 "The Fallen & The Virtuous" per turn.
 ### Annotations (Agnes)
 - Role: Non-Engine, Conditional Board Breaker
 - Condition: Requires a monster that mentions "Fallen of Albaz" in the Extra Deck to function as a board breaker.
-- Key notes: The first effect of this card is almost always going to be the one that is activated in Radiant Typhoon decks, and also in general. The monster usually sent from the Extra Deck to the GY as cost is Albion the Branded Dragon, as this will allow for another copy of The Fallen & The Virtuous to be added or set during the next end phase. When this next copy of The Fallen & The Virtuous is then activated, another Albion the Branded Dragon can be sent to the GY for cost again, and yet another copy of The Fallen & The Virtuous can then be added or set during the next end phase, and so on. This finite loop is the primary strength of The Fallen & The Virtuous as it gains value over the course of several turns. Alternatively, Ecclesia and the Dark Dragon can be sent for cost instead, which provides an additional push of interaction when then subsequently using the effect of Ecclesia and the Dark Dragon in the GY to shuffle a card on the field into the deck. This also has the beneficial side effect of shuffling a copy of Albion the Branded Dragon and Ecclesia and the Dark Dragon from the GY back into the Extra Deck, such that it can be used as cost for The Fallen & The Virtuous again later. Together with the effect of Radiant Typhoon Mandate to shuffle Quick-Play spells back into the deck from the GY, the The Fallen & The Virtuous loop can potentially be repeated "infinitely", although once Ecclesia and the Dark Dragon has been sent for cost instead of Albion the Branded Dragon the loop will have to be restarted by having access to an additional copy of The Fallen & The Virtuous somehow. Note that sending The Dragon that Devours the Dogma for cost to activate The Fallen & The Virtuous can also enable the searching of another copy of The Fallen & The Virtuous during the next end phase by using the GY effect of The Dragon that Devours the Dogma. However, because this copy cannot be set, unlike with using the effect of Albion the Branded Dragon, the GY effect of The Dragon that Devours the Dogma only useful when adding during your opponents end phase, since then it can be used immediatly on your following turn. Adding The Fallen & The Virtuous to the hand during your own phase is rarely useful as it wont be able to be set and therefore not able to be activated on your opponent's following turn. The second effect of The Fallen & The Virtuous, to special summon a monster from the GY, is almost never activatable in Radiant Typhoon decks as an "Ecclesia" monster isn't usually included in the main deck. 
-- Background notes: Is often referred to in its abbreviated form as F&V.
+- Key notes: The first effect of this card is almost always going to be the one that is activated in Radiant Typhoon decks, and also in general. The second effect of The Fallen & The Virtuous, to special summon a monster from the GY, is almost never activatable in Radiant Typhoon decks as an "Ecclesia" monster isn't usually included in the main deck. 
+- Background notes: Is often referred to in its abbreviated form as F&V. - Background notes: The monster usually sent from the Extra Deck to the GY as cost is Albion the Branded Dragon, as this will allow for another copy of The Fallen & The Virtuous to be added or set during the next end phase. When this next copy of The Fallen & The Virtuous is then activated, another Albion the Branded Dragon can be sent to the GY for cost again, and yet another copy of The Fallen & The Virtuous can then be added or set during the next end phase, and so on. This finite loop is the primary strength of The Fallen & The Virtuous as it gains value over the course of several turns. Alternatively, Ecclesia and the Dark Dragon can be sent for cost instead, which provides an additional push of interaction when then subsequently using the effect of Ecclesia and the Dark Dragon in the GY to shuffle a card on the field into the deck. This also has the beneficial side effect of shuffling a copy of Albion the Branded Dragon and Ecclesia and the Dark Dragon from the GY back into the Extra Deck, such that it can be used as cost for The Fallen & The Virtuous again later. Together with the effect of Radiant Typhoon Mandate to shuffle Quick-Play spells back into the deck from the GY, the The Fallen & The Virtuous loop can potentially be repeated "infinitely", although once Ecclesia and the Dark Dragon has been sent for cost instead of Albion the Branded Dragon the loop will have to be restarted by having access to an additional copy of The Fallen & The Virtuous somehow. Note that sending The Dragon that Devours the Dogma for cost to activate The Fallen & The Virtuous can also enable the searching of another copy of The Fallen & The Virtuous during the next end phase by using the GY effect of The Dragon that Devours the Dogma. However, because this copy cannot be set, unlike with using the effect of Albion the Branded Dragon, the GY effect of The Dragon that Devours the Dogma only useful when adding during your opponents end phase, since then it can be used immediatly on your following turn. Adding The Fallen & The Virtuous to the hand during your own phase is rarely useful as it wont be able to be set and therefore not able to be activated on your opponent's following turn. 
 
 
 ## Forbidden Droplet
@@ -272,6 +274,7 @@ Neither player can activate monster effects in response to this card's activatio
 ## Triple Tactics Talent
 ### Card data
 - Type: Spell
+- Typing: Normal
 - Forbidden & limited list: Limited (as of 2025-04-07)
 - Text: If your opponent has activated a monster effect during your Main Phase this turn: Activate 1 of these effects;
 ● Draw 2 cards.
@@ -394,6 +397,7 @@ You can only activate 1 other "Mulcharmy" monster effect, the turn you activate 
 ## Harpie's Feather Duster
 ### Card data
 - Type: Spell
+- Typing: Normal
 - Forbidden & limited list: Limited (as of 2020-09-14)
 - Text: Destroy all Spell and Trap Cards your opponent controls.
 ### Annotations (Agnes)
@@ -403,6 +407,7 @@ You can only activate 1 other "Mulcharmy" monster effect, the turn you activate 
 ## Lightning Storm
 ### Card data
 - Type: Spell
+- Typing: Normal
 - Text: If you control no face-up cards: Activate 1 of these effects;
 ● Destroy all Attack Position monsters your opponent controls.
 ● Destroy all Spells and Traps your opponent controls.
