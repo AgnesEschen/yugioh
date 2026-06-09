@@ -39,7 +39,7 @@ A card carries **every** role it can fill; which one is "live" depends on the li
 - **[convention] Requirement.** A card the deck must include, at some minimum count, to fulfil its game plan; the count lives in a `Requirement` field.
 - **Boss Monster.** A primary payoff monster the plan aims to resolve.
 - **Consistency.** Improves the reliability of reaching a functional hand / game plan. NB: *opening* consistency — P(functional opener) — is a different quantity from *resilience* (P(line resolves | interrupted)); both are called "consistency" colloquially. In real games you should almost always expect to meet interruption, so while the opening consistency is very relevant, resilience is also critical.
-- **Card Advantage.** Nets more cards than it costs. Also referred to as "plussing". For example, Pot of Extravangance goes +1 (i.e. "plus one") since the end result of its effect is you ending up with one more card in your hand than you had before.
+- **Card Advantage.** Nets more cards than it costs. Also referred to as "plussing". For example, Pot of Extravagance goes +1 (i.e. "plus one") since the end result of its effect is you ending up with one more card in your hand than you had before.
 
 ### Disruption roles (sorted by deployment mode)
 - **Hand Trap.** Disruption used from the hand to interrupt your opponent's plays.
