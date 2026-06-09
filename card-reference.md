@@ -304,7 +304,8 @@ Neither player can activate monster effects in response to this card's activatio
 You can only activate 1 "Triple Tactics Talent" per turn.
 ### Annotations (Agnes)
 - Engine class: Non-Engine
-- Role: Board Breaker, Consistency, Card Advantage
+- Role: Conditional Board Breaker, Conditional Consistency, Conditional Card Advantage
+- Condition: Requires your opponent to have activated a monster effect during your Main Phase this turn in order to function as a board breaker, consistency, or card advantage.
 - Key notes: The effect to take control of 1 monster your opponent controls is the primary way this card is used as a board breaker. This card can also be used to extend through hand traps going first by either drawing 2 cards, or by looking at your opponent's hand and shuffling one card into the deck. Therefore, this card is also very valuable when going first, if playing against a deck with hand traps.
 
 
