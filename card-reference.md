@@ -304,7 +304,7 @@ Neither player can activate monster effects in response to this card's activatio
 You can only activate 1 "Triple Tactics Talent" per turn.
 ### Annotations (Agnes)
 - Engine class: Non-Engine
-- Role: Board Breaker, Extender
+- Role: Board Breaker, Consistency, Card Advantage
 - Key notes: The effect to take control of 1 monster your opponent controls is the primary way this card is used as a board breaker. This card can also be used to extend through hand traps going first by either drawing 2 cards, or by looking at your opponent's hand and shuffling one card into the deck. Therefore, this card is also very valuable when going first, if playing against a deck with hand traps.
 
 
@@ -316,7 +316,7 @@ You can only activate 1 "Triple Tactics Talent" per turn.
 - Text: Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name.
 ### Annotations (Agnes)
 - Engine class: Non-Engine
-- Role: Extender
+- Role: Protection, GY Board Breaker
 - Key notes: This card's primary use is negating opponent monster hand traps that are in the GY, so that your plays can resolve. This cards can in niche situations be used as a board breaker, if playing against a deck that relies a lot of the GY. 
 
 
@@ -529,7 +529,7 @@ If this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as m
 - Text: 2 Level 3 WIND monsters
 During either player's turn, when a Spell/Trap Card is activated: You can detach 2 Xyz Materials from this card; negate the activation, and if you do, destroy it. This card loses 300 ATK while it has no Xyz Materials.
 ### Annotations (Agnes)
-- Role: Extra Deck Toolbox
+- Role: Extra Deck Toolbox, End-Board Piece
 
 
 ## Phantom Fortress Enterblathnir
