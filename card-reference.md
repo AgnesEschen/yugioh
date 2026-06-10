@@ -92,7 +92,6 @@
 - Text: 2 "Radiant Typhoon" monsters
 If this card is Link Summoned: You can add 1 "Mystical Space Typhoon" from your Deck or GY to your hand. You can target 2 face-up monsters on the field, including 1 "Radiant Typhoon" monster you control; place them face-up in their owners' Spell & Trap Zones as Continuous Spells. If a Quick-Play Spell Card is activated (except during the Damage Step): You can place 1 "Radiant Typhoon" Continuous Trap from your Deck or GY, face-up on your field. You can only use each effect of "Radiant Typhoon Varuroon, the Marine Eidolon" once per turn.
 ### Annotations (Agnes)
-- Engine class: Engine
 - Role: Requirement
 - Requirement: Radiant Typhoon decks must include at least two copies of this card to fulfill their game plan.
 
