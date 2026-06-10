@@ -11,7 +11,7 @@ Finally compare: Is the clunky downside of running 3x Pot of Extravagance worse 
 
 ## Q2 — The Manifestation + Ascendance package
 Felix mains 2x Manifestation + 2x Ascendance as a consistency patch after Chant
-went to 1; Agnes mains 0x Manifestation but instead mains an extra copy of Pot of Extravagance compated to Felix. Two conditional starters whose conditions
+went to 1; Agnes mains 0x Manifestation but instead mains an extra copy of Pot of Extravagance compared to Felix. Two conditional starters whose conditions
 feed each other — quantify what the package adds (opening consistency, resilience)
 and what it costs (bricks when halves don't align).
 Finally compare: Is the Manifestation + Ascendance package worth it over a third copy of Pot of Extravagance, or other consistency boosting options?
