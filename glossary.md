@@ -62,6 +62,7 @@ A card carries **every** role it can fill; which one is "live" depends on the li
 - **F&V** — The Fallen & The Virtuous.
 - **droll** — Droll & Lock Bird.
 - **super poly/spoly** - Super Polymerization.
+- **Extrav** - Pot of Extravagance.
 
 ## Other terms
 - **Half-board.** A reduced / incomplete end board, resulting from *any* disruption (e.g. several hand traps forcing the opponent to stop short) — not specifically a Mulcharmy.

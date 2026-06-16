@@ -212,7 +212,7 @@ Once per Chain, when "Mystical Space Typhoon" is activated: You can target 1 fac
 - Engine class: Engine
 - Role: Consistency, Card Advantage
 - Key notes: This card is almost always activated by banishing 6 random face-down cards from the extra deck in order to draw 2 cards. 
-- Background notes: While a plus 2 is a very good upside, the major downside of this card is its cost to activate severely impacting how the extra deck should be built. Another downside is the restriction of not being able to draw any cards by card effects after its effect resolves. A final downside to note is that it must be activated as the first action when entering main phase one. This can make the card inflexible into an established board, or hand interaction such as Droll & Lock Bird.
+- Background notes: While a plus 2 is a very good upside, the major downside of this card is its cost to activate severely impacting how the extra deck should be built. Another downside is the restriction of not being able to draw any cards by card effects after its effect resolves. A final downside to note is that it must be activated as the first action when entering main phase one. This can make the card inflexible into an established board, or hand interaction such as Droll & Lock Bird. Is often referred to simply as extrav.
 
 
 ## Droll & Lock Bird

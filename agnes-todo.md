@@ -1,7 +1,7 @@
 # Agnes — Project TODO
 
 ## Deferred until after Danish Nationals (2026-06-27)
-- [ ] Fully write the success tiers / goal spec (game-plan.md): T0 endboard concretely,
+- [ ] Fully write the success tiers / goal spec (end-board-tiers.md): T0 endboard concretely,
       then half-board / playable-passive / brick as predicates over end-of-turn state.
 - [ ] Reformulate Q2 in open-questions.md as the 3-flex-slot allocation problem
       (baseline incl. required 1x Ascendance; package vs +Pot / Tenki / Shield-Bearer /
