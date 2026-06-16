@@ -9,6 +9,7 @@
       without Manifestation).
 - [ ] Add "Agnes-clean" and post-side variants as analysis objects in decklists.md
       (label real vs hypothetical).
+- [ ] Write out the specific T1/T2 combo lines per starter — needed for resilience/reachability, not for opening consistency.
 
 ## Active
 - [ ] Tournament decision: 2x vs 3x Pot of Extravagance (target: before 2026-06-27).

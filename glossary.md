@@ -19,6 +19,7 @@ Entries marked **[convention]** are project conventions we agreed on, not standa
 - **Mill.** Move a card from Deck to GY without drawing it.
 - **Search / add.** Move a specific card from Deck to hand.
 - **WIND-lock.** A recurring Radiant Typhoon restriction: "cannot Special Summon for the rest of this turn, except WIND monsters."
+- **One-card combo.** A starter that, alone in the opening hand (going first), reaches ≥ T2 — a singleton sufficient hand-subset. Coincides with the unconditional Starter role here; conditional starters reach T2 but aren't one-card combos (they need their enabler).
 
 ## Engine classification — the `Engine class` field
 
