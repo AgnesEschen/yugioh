@@ -25,6 +25,13 @@ when both held; only Pot→Vision is blocked (draw-lock). So the 3rd Pot stacks 
 of Vision (not redundant), raising its marginal dig value above a mutual-exclusion estimate.
 Pending: Monte Carlo for the 3rd Pot's marginal dig vs the +1.09 bar.
 
+RESOLUTION: Dig MC (Vision→Pot, 2M trials, validated vs exact no-dig):
+  C1 90.69% | C3 90.76% | C2 89.29%.  2nd Manif marginal +1.23 / 3rd Pot marginal +1.30,
+  diff +0.07 ±0.06 ⇒ statistical tie on opening consistency. 2x-vs-3x-Pot does NOT resolve
+  on opening hands. Decision → deferred axes: 3rd Pot's ED-banish / Droll-rigidity costs vs
+  Manifestation's Droll/going-2nd utility both favor C1. PICK: Config 1 (Noble + 2 Manif + 2 Pot),
+  = Felix's profile. Q1 answer: 2x Pot. (Resilience tiebreak qualitative; rigorous resilience = later.)
+
 ## Q2 — The Manifestation + Ascendance package
 Felix mains 2x Manifestation + 2x Ascendance as a consistency patch after Chant
 went to 1; Agnes mains 0x Manifestation but instead mains an extra copy of Pot of Extravagance compared to Felix. Two conditional starters whose conditions
