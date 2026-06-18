@@ -19,7 +19,7 @@ Entries marked **[convention]** are project conventions we agreed on, not standa
 - **Mill.** Move a card from Deck to GY without drawing it.
 - **Search / add.** Move a specific card from Deck to hand.
 - **WIND-lock.** A recurring Radiant Typhoon restriction: "cannot Special Summon for the rest of this turn, except WIND monsters."
-- **One-card combo.** A starter that, alone in the opening hand (going first), reaches ≥ T2 — a singleton sufficient hand-subset. Coincides with the unconditional Starter role here; conditional starters reach T2 but aren't one-card combos (they need their enabler).
+- **One-card combo.** A starter that, alone in the opening hand (going first), reaches ≥ T2 — a singleton sufficient hand-subset. Coincides with the unconditional Starter role here; conditional starters reach T2 but aren't one-card combos (they need their enabler). (In play terms: a 1-card *play* — see **Plays, lines, and end-boards**.)
 
 ## Engine classification — the `Engine class` field
 
@@ -39,7 +39,7 @@ A card carries **every** role it can fill; which one is "live" depends on the li
 - **Extender.** Continues a line after interruption by *adding resources*, without itself starting. Noted for completeness, but in Radiant Typhoon (and most modern decks) starters and extenders largely coincide, so we rarely use it.
 - **[convention] Requirement.** A card the deck must include, at some minimum count, to fulfil its game plan; the count lives in a `Requirement` field.
 - **Boss Monster.** A primary payoff monster the plan aims to resolve.
-- **Consistency.** Improves the reliability of reaching a functional hand / game plan. NB: *opening* consistency — P(functional opener) — is a different quantity from *resilience* (P(line resolves | interrupted)); both are called "consistency" colloquially. In real games you should almost always expect to meet interruption, so while the opening consistency is very relevant, resilience is also critical.
+- **Consistency.** Improves the reliability of reaching a functional hand / game plan. NB: *opening* consistency — P(functional opener) — is a different quantity from *resilience* (P(line resolves | interrupted)); both are called "consistency" colloquially. In real games you should almost always expect to meet interruption, so while the opening consistency is very relevant, resilience is also critical. The distinct-**play** count is a *breadth* proxy for resilience; true resilience is line-coverage (see **Plays, lines, and end-boards** and `decision-axes.md`).
 - **Card Advantage.** Nets more cards than it costs. Also referred to as "plussing". For example, Pot of Extravagance goes +1 (i.e. "plus one") since the end result of its effect is you ending up with one more card in your hand than you had before.
 
 ### Disruption roles (sorted by deployment mode)
@@ -57,6 +57,17 @@ A card carries **every** role it can fill; which one is "live" depends on the li
 
 ### The `Conditional <Role>` convention
 - **[convention] Conditional &lt;Role&gt;.** The card fills `<Role>` only when its `Condition` holds; used wherever a role is gated on a precondition (Conditional Starter, Conditional Board Breaker, Conditional Consistency, …). Example: Pot of Extravagance = Consistency + Card Advantage (unconditional); Triple Tactics Talent = the same, but *Conditional*, since it needs the opponent to have activated a monster effect during your Main Phase. The prefix is exactly what distinguishes the two.
+
+## Plays, lines, and end-boards — [convention]
+
+The quality / resilience vocabulary, layered from abstract to concrete. (Formal reachability machinery lives in `probability-toolkit.md`; the framework that uses these lives in `decision-axes.md`.)
+
+- **Play.** A distinct, *independent* action that establishes board presence or initiates the combo — identified by its **outcome, not the card** that triggers it. Same-card duplicates and functional equivalents collapse to one play (Noble + Eldam = one Eldam-play), because a play runs on its card's OPT and a duplicate can't run it again the same turn. The count of distinct plays in a hand is the **opening-hand quality / resilience-breadth** primitive. A Starter is the source of a play; a one-card combo is a 1-card play; a 2-card combo (Ascendance + Manifestation) is *one* play from two cards.
+- **Not a play.** A **dig** is a *play-finder*, not a play (below). Pure payoffs / components — Fonix, Varuroon, Mandate, and usually MST — are engine but do not initiate, so they are not plays.
+- **Dig.** A draw effect (Pot; Vision's draw mode). A dig is a *play-finder*: it raises P(≥1 play) and can find additional plays, but is not itself a play. Its value is **consistency-weighted** (the draw is OPT-capped at one event per turn, so extra copies mostly rescue low-play hands).
+- **Line (combo-line).** The concrete, low-level sequence of actions that executes a play to a specific end-board — formally a *path* in the reachability model. A play generally affords **several** lines with different interruption trade-offs (a draw-phase Krosea line dodges Droll; a bait-first Krosea line eats Droll but dodges most other hand traps).
+- **Optimal line.** Of a play's available lines, the one reaching the strongest end-board *while playing around the most opponent interruption* — i.e. the argmax over the opponent's interruption distribution, not against a fixed target.
+- **Play vs end-board tier.** The **play** and the end-board **tier** (`end-board-tiers.md`) are the *abstractions*; the **line** and the concrete end-board are the *particulars* that connect them. "Play P reaches tier T" ⟺ a line exists from P to a board satisfying T.
 
 ## Abbreviations
 - **MST** — Mystical Space Typhoon.
