@@ -8,10 +8,10 @@
 - 1x Radiant Typhoon Fonix, the Great Flame (LOCKED-IN)
 - 2x Radiant Typhoon Meghala (1x LOCKED-IN)
 - 1x Radiant Typhoon Varuroon, the Vibrant Vortex (LOCKED-IN)
-- 3x Shiina, Twin Tempests of Celestial Thunder (2x LOCKED-IN)
+- 3x Shiina, Twin Tempests of Celestial Thunder (LOCKED-IN)
 - 3x Radiant Typhoon Vision (LOCKED-IN)
-- 2x Radiant Typhoon Ascendance (LOCKED-IN)
-- 2x Radiant Typhoon Manifestation (LOCKED-IN)
+- 2x Radiant Typhoon Ascendance (1x LOCKED-IN)
+- 2x Radiant Typhoon Manifestation
 - 1x Radiant Typhoon Chant (LOCKED-IN)
 - 3x Mystical Space Typhoon (LOCKED-IN)
 - 3x Pot of Extravagance (2x LOCKED-IN)
