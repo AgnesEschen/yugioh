@@ -130,6 +130,9 @@ later as conditional-if-monster fields if combat math is ever needed.)*
 - **Required:** if the `Requirement` role is tagged; absent otherwise. **Type:** text.
 - The minimum count of this card the deck must include to fulfil its game plan, plus rationale.
 
+### Functional equivalence
+- **Optional:** names the card this one functionally reduces to, when a searcher only ever fetches one starter.
+
 ### Key notes
 - **Optional.** Short-form, decision-relevant annotation (typical usage, a modeling-relevant fact).
 

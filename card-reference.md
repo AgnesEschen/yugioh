@@ -189,6 +189,7 @@ Once per Chain, when "Mystical Space Typhoon" is activated: You can target 1 fac
 ### Annotations (Agnes)
 - Engine class: Engine
 - Role: Starter
+- Functional equivalence: Reduces to Radiant Typhoon Eldam (its only relevant search target). As a Starter it functionally duplicates an Eldam copy; collapse {Noble, Eldam} to one Eldam-line for distinct-piece counting.
 - Key notes: Is almost always used to search Radiant Typhoon Eldam such that it functions as a starter for Radiant Typhoon decks. This however, is particularly weak into Droll & Lock Bird.
 
 
@@ -200,6 +201,7 @@ Once per Chain, when "Mystical Space Typhoon" is activated: You can target 1 fac
 ### Annotations (Agnes)
 - Engine class: Engine
 - Role: Starter
+- Functional equivalence: Reduces to Radiant Typhoon Swen (its only relevant search target). As a Starter it functionally duplicates a Swen copy; collapse {Noble, Swen} to one Swen-line for distinct-piece counting. 
 - Key notes: Is almost always used to search Radiant Typhoon Swen such that it functions as a starter for Radiant Typhoon decks. This however, is particularly weak into Droll & Lock Bird.
 
 
