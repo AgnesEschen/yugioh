@@ -1,0 +1,2 @@
+# Agnes Paper Notes
+This file includes my initial explanations of the general content that should be included in the paper. This should be used to check my understanding of the concepts before starting to write the actual paper.

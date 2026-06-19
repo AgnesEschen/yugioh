@@ -1,0 +1,2 @@
+# Agnes Paper Final
+The final rendition of the paper, meant to be shared with my friends and the community. Will probably not stay a markdown file, probably going to be converted into maybe a latex file later when i begin writing it.
