@@ -193,6 +193,20 @@ Once per Chain, when "Mystical Space Typhoon" is activated: You can target 1 fac
 - Key notes: Is almost always used to search Radiant Typhoon Eldam such that it functions as a starter for Radiant Typhoon decks. This however, is particularly weak into Droll & Lock Bird.
 
 
+## Horse of the Floral Knights
+### Card data
+- Type: Effect Monster
+- Typing: Beast
+- Attribute: WIND
+- Level/Rank: 3
+- Text: If this card is Normal or Special Summoned: You can add 1 LIGHT "Noble Knight" monster from your Deck to your hand. You can only use this effect of "Horse of the Floral Knights" once per turn. Once per turn, during your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using this card you control and other monsters from your hand or field as Fusion Material.
+### Annotations (Agnes)
+- Engine class: Engine
+- Role: Starter
+- Functional equivalence: Reduces to Noble Knight's Shield-Bearer (which in turn reduces to Radiant Typhoon Eldam)
+- Key notes: The search effect is only used to add Noble Knight's Shield-Bearer.
+
+
 ## Fire Formation - Tenki
 ### Card data
 - Type: Spell
@@ -217,7 +231,7 @@ You can discard this card and 1 other WIND monster; add 1 WIND monster with 1500
 - Engine class: Engine
 - Role: Conditional Starter
 - Condition: Requies another WIND monster in hand to be discarded, in order to function as a starter.
-- Functional equivalence: Can be used to search the following starters: Radiant Typhoon Krosea (note that Krosea's starter condition still has to be met for this card to function as a starter when searching Krosea), Radiant Typhoon Swen, Radiant Typhoon Eldam, Radiant Typhoon Meghala (note that Meghala's starter condition still has to be met for this card to function as a starter when searching Meghala)
+- Functional equivalence: Can be used to search the following starters: Radiant Typhoon Krosea (note that Krosea's starter condition still has to be met for this card to function as a starter when searching Krosea), Radiant Typhoon Swen, Radiant Typhoon Eldam, Radiant Typhoon Meghala (note that Meghala's starter condition still has to be met for this card to function as a starter when searching Meghala), and Horse of the Floral Knights (however, since Horse of the Floral Knights collapses to Eldam normally you'd just add Eldam instead)
 - Key notes: Can also be used to add the non-engine cards Shiina, and droll.
 
 
