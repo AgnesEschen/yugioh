@@ -6,22 +6,20 @@
 - 3x Radiant Typhoon Krosea (LOCKED-IN)
 - 3x Radiant Typhoon Eldam (LOCKED-IN)
 - 1x Radiant Typhoon Fonix, the Great Flame (LOCKED-IN)
-- 2x Radiant Typhoon Meghala (1x LOCKED-IN)
+- 1x Radiant Typhoon Meghala (LOCKED-IN)
 - 1x Radiant Typhoon Varuroon, the Vibrant Vortex (LOCKED-IN)
-- 3x Shiina, Twin Tempests of Celestial Thunder (LOCKED-IN)
 - 3x Radiant Typhoon Vision (LOCKED-IN)
-- 2x Radiant Typhoon Ascendance (1x LOCKED-IN)
-- 2x Radiant Typhoon Manifestation
+- 1x Radiant Typhoon Ascendance (LOCKED-IN)
 - 1x Radiant Typhoon Chant (LOCKED-IN)
 - 3x Mystical Space Typhoon (LOCKED-IN)
-- 3x Pot of Extravagance
+- 1x Radiant Typhoon Mandate (LOCKED-IN)
+- 3x Shiina, Twin Tempests of Celestial Thunder (LOCKED-IN)
 - 3x The Fallen & The Virtuous (LOCKED-IN)
 - 3x Forbidden Droplet (LOCKED-IN)
 - 2x Forbidden Crown (LOCKED-IN)
 - 1x Called by the Grave (LOCKED-IN)
-- 1x Radiant Typhoon Mandate (LOCKED-IN)
 - 1x Triple Tactics Talent (LOCKED-IN)
-- 1x Noble Knight's Shield-Bearer 
+- 6x OPEN SLOTS
 ### Extra deck
 - 3x Radiant Typhoon Varuroon, the Marine Eidolon (LOCKED-IN)
 - 1x Greatfly (LOCKED-IN)
@@ -37,10 +35,10 @@
 - 3x Mulcharmy Fuwalos (LOCKED-IN)
 - 1x Harpie's Feather Duster (LOCKED-IN)
 - 2x Lightning Storm (LOCKED-IN)
-- 3x The Winged Dragon of Ra - Sphere Mode (2x LOCKED-IN)
+- 3x The Winged Dragon of Ra - Sphere Mode (LOCKED-IN)
 - 1x Bystial Magnamhut (LOCKED-IN)
 - 2x Droll & Lock Bird (LOCKED-IN)
-- 3x Ash Blossom & Joyous Spring (2x LOCKED-IN)
+- 3x Ash Blossom & Joyous Spring (LOCKED-IN)
 
 ## Agnes's preliminary Denmark Nationals 2026 deck list
 ### Main deck

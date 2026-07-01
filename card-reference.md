@@ -205,6 +205,22 @@ Once per Chain, when "Mystical Space Typhoon" is activated: You can target 1 fac
 - Key notes: Is almost always used to search Radiant Typhoon Swen such that it functions as a starter for Radiant Typhoon decks. This however, is particularly weak into Droll & Lock Bird.
 
 
+## Wynn the Wind Channeler
+### Card data
+- Type: Effect Monster
+- Typing: Spellcaster
+- Attribute: WIND
+- Level/Rank: 5
+- Text: (This card is always treated as a "Charmer" card.)
+You can discard this card and 1 other WIND monster; add 1 WIND monster with 1500 or less DEF from your Deck to your hand, except "Wynn the Wind Channeler", also you cannot activate monster effects for the rest of this turn, except WIND monsters. When a WIND monster you control is destroyed by battle while this card is in your hand: You can Special Summon this card. You can only use each effect of "Wynn the Wind Channeler" once per turn.
+### Annotations (Agnes)
+- Engine class: Engine
+- Role: Conditional Starter
+- Condition: Requies another WIND monster in hand to be discarded, in order to function as a starter.
+- Functional equivalence: Can be used to search the following starters: Radiant Typhoon Krosea (note that Krosea's starter condition still has to be met for this card to function as a starter when searching Krosea), Radiant Typhoon Swen, Radiant Typhoon Eldam, Radiant Typhoon Meghala (note that Meghala's starter condition still has to be met for this card to function as a starter when searching Meghala)
+- Key notes: Can also be used to add the non-engine cards Shiina, and droll.
+
+
 ## Pot of Extravagance
 ### Card data
 - Type: Spell
