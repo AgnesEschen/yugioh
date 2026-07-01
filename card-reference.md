@@ -203,7 +203,7 @@ Once per Chain, when "Mystical Space Typhoon" is activated: You can target 1 fac
 ### Annotations (Agnes)
 - Engine class: Engine
 - Role: Conditional Starter
-- Condition: Requires the OPT normal summon in order to function as a starter.
+- Condition: Requires at least one copy of Noble Knight's Shield-Bearer present in the Main Deck in order to function as a starter. Also requires the OPT normal summon in order to function as a starter.
 - Functional equivalence: Reduces to Noble Knight's Shield-Bearer (which in turn reduces to Radiant Typhoon Eldam)
 - Key notes: The search effect is only used to add Noble Knight's Shield-Bearer.
 
